@@ -1,2 +1,3 @@
-THE Documaster 🧙‍♂️
-- [Master reference ] (mastermark.md)
+# THE Documaster 🧙‍♂️
+***
+- [Master reference](mastermark.md)
